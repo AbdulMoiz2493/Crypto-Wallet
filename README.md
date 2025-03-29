@@ -87,4 +87,10 @@ Crypto Wallet is a secure and efficient cryptocurrency wallet built using the ME
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+
+## Contact
+If you have any questions, feel free to reach out:
+- **Abdul Moiz**  
+- Email: abdulmoiz8895@gmail.com 
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)
  
