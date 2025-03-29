@@ -1,4 +1,4 @@
-# Crypto Wallet
+# Crypto Wallet Backend
 
 Crypto Wallet is a secure and efficient cryptocurrency wallet built using the MERN stack. It enables users to create accounts, manage transactions, and securely store digital assets.
 
