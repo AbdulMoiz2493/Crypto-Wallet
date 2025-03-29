@@ -42,7 +42,7 @@ Crypto Wallet is a secure and efficient cryptocurrency wallet built using the ME
 1. Clone the repository:
    ```bash
    git clone https://github.com/AbdulMoiz2493/Crypto-Wallet.git
-   cd Crypto-Wallet
+   cd Crypto-Wallet/server
    ```
 2. Install dependencies:
    ```bash
