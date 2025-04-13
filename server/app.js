@@ -6,7 +6,10 @@ const app = express();
 
 
 app.use(cors({
-    origin: "*"
+    origin: 'http://localhost:8080', // or whatever your frontend URL is
+    credentials: true, // This allows cookies to be sent with requests
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+    allowedHeaders: ['Content-Type', 'Authorization']
 }));
 app.use(express.json({limit: "16kb"}));
 app.use(express.urlencoded({extended: true, limit : "16kb" }));
